@@ -48,9 +48,6 @@ The backdoor script connects to the server and waits for commands. It retries co
 
 This project is intended for educational purposes only. Unauthorized use of these scripts on systems you do not own or have explicit permission to test is illegal and unethical. Use responsibly and within the bounds of the law.
 
-### License
-
-[MIT License](LICENSE)
 
 ---
 
@@ -58,8 +55,4 @@ Feel free to clone this repository and customize the scripts as per your require
 
 ---
 
-To download the scripts directly, you can use the following links:
-- [Download server.py](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/REPOSITORY_NAME/main/server.py)
-- [Download backdoor.py](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/REPOSITORY_NAME/main/backdoor.py)
 
-Replace `YOUR_GITHUB_USERNAME` and `REPOSITORY_NAME` with your actual GitHub username and repository name.
