@@ -13,21 +13,13 @@ This repository contains the server and backdoor scripts for creating a reverse 
 
 The server script listens for incoming connections from the backdoor script and allows for various operations like command execution, file upload/download, and file deletion.
 
-#### Server Script (server.py)
 
-```python
-{server_script}
-```
 
 ### Backdoor Script
 
 The backdoor script connects to the server and waits for commands. It retries connecting if the initial connection fails.
 
-#### Backdoor Script (backdoor.py)
 
-```python
-{backdoor_script}
-```
 
 ### Usage
 
