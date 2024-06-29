@@ -9,6 +9,14 @@ This repository contains the server and backdoor scripts for creating a reverse 
 - Python 3.x installed on both the server and target machines.
 - Basic understanding of networking and Python programming.
 
+## Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/drewmayberry11/Backdoor.git
+    cd Backdoor
+    ```
+
 ### Server Script
 
 The server script listens for incoming connections from the backdoor script and allows for various operations like command execution, file upload/download, and file deletion.
