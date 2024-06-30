@@ -1,4 +1,4 @@
-# Backdoor Final
+# Backdoor 
 
 This repository contains the server and backdoor scripts for creating a reverse shell setup. The server script listens for incoming connections, while the backdoor script connects to the server and waits for commands. The setup allows for file upload/download, command execution, and file deletion on the target machine.
 
